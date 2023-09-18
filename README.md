@@ -1,4 +1,4 @@
-# password-encryption
+# Simple Password Encryption
 Password Encryption 
 
 ### Java Password Encryption 
